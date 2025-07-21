@@ -2,7 +2,6 @@ import pandas as pd
 import streamlit as st
 import numpy as np
 import joblib
-import openai
 from fpdf import FPDF
 import matplotlib.pyplot as plt
 import io
