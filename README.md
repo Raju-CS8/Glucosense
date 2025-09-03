@@ -16,8 +16,3 @@ Official Repo of a project Diabetics Prediction System using Python on Machine L
 1. Clone the repo
 2. streamlit run app.py
 
-# Video Demo
-https://www.youtube.com/watch?v=ATntAbQl5pI
-
-# For queries, join
-join our telegram group, https://t.me/+3Fk4nGJs6qs5MzJl
